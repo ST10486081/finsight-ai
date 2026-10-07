@@ -1,3 +1,5 @@
+
+
 package finsight.model;
 
 // Entity for the businesses table
